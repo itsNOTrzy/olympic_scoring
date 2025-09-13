@@ -1,7 +1,7 @@
 # olympic_scoring
 Olympic scoring Simulator/Calculator written in Python + PyQt5
 
-![UI]()
+![UI](o_ui.png)
 
 ## Compilation
 
@@ -21,3 +21,6 @@ EXE files are made with `PyInstaller`:
 pip install pyinstaller
 pyinstaller -F olympic_scoring.py
 ```
+
+![UI](order.png)
+![UI](o_search.png)
